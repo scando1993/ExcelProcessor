@@ -9,7 +9,7 @@ jdcal==1.4.1
 lxml==4.3.4
 mkl-fft==1.0.12
 mkl-random==1.0.2
-numpy==1.16.4
+numpy==1.22.0
 openpyxl==2.6.2
 pandas==0.25.0
 pandas-datareader==0.7.0
